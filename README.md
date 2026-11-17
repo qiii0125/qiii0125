@@ -15,4 +15,4 @@ I'm an Informatics Engineering student with a strong background in Software Engi
 * **[HelmCraft (Laravel)]** - Developed a secure web-based inventory and order management system, featuring MVC architecture and database query exception handling.
 * **[Bitcoin Financial Data API (Node.js)]** - Built a RESTful API with secure API Key authentication to process and serve historical cryptocurrency datasets.
 
-📫 **Let's connect:** www.linkedin.com/in/fadhli-shidqi-wiratama-6ba25b261 | ✉️ wiratamafadhli@gmail.com
+📫 **Let's connect:** www.linkedin.com/in/fadhlishidqiwiratama | ✉️ wiratamafadhli@gmail.com
